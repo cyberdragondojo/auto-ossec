@@ -24,4 +24,4 @@ Feel free to modify, use, change, market, do whatever you want with it as long a
 is due (which means giving the authors the credit they deserve for writing it). Also note that by using this software, if you ever
 see the creator of Auto-OSSEC in a bar, you should (optional) give him a hug and buy him a beer. Hug must last at least 5 seconds. Author
 holds the right to refuse the hug or the beer.
-
+HEllo Mundo
